@@ -1,6 +1,6 @@
-# Rizzy245
+
 My GitHuB activity 
-## 📊 My GitHub Activity
+Raiza Mae Gidacan 3 North 
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
